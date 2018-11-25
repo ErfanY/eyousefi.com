@@ -1,0 +1,22 @@
+baseURL = "https://eyousefi.com/"
+languageCode = "en-us"
+title = "Erfan Yousefi"
+theme = "kiera"
+copyright = "Copyright &copy; 2018 - Erfan Yousefi"
+pygmentsCodeFences = true
+canonifyurls = true
+paginate = 3
+summaryLength = 30
+enableEmoji = true
+
+disqusShortname = "" #Disqus shortname
+googleAnalytics = "UA-60175069-1" #Google Analytics ID
+
+[author]
+    name = "Erfan"       #Author name
+    linkedin = "ErfanYousefi"   #LinkedIn username
+    twitter = "2Erfan"    #Twitter username
+
+[params]
+    tagline = "Personal page"
+
