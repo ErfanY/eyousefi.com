@@ -1,13 +1,17 @@
 +++
 title = "About Me"
-date = "2018-11-22"
+date = "2020-05-01"
 menu = "main"
 weight = "20"
 meta = "false"
 +++
 
-Well well well, how the turntables. Whether you clicked on it out of boredom or you really wanted to know about me, it's safe to say that you have a lot of better stuff to do.
+My name is Erfan Yousefi, as you might already know. I'm an Engineering Manager at a company called Infor with background as Architect and Software Engineer prior to that. But this is not LinkedIn so clearly that was useless to say. 
 
-I'm Erfan, interested in tech, solving problems and a dash of cloud. You can contact me for consulting, brainstorming or a coffee break if that doesn't sound weird to you.
+I'm here to talk about different topics that interest me, primarily software and tech. This is yet another attempt of me trying to begin with a blogging habit that's been on and off over the years.
+
+On a more personal note, I am an avid, professional computer user. My specialties are keyboard, monitor, starting computer, clicking, right clicking and self deprecating humor.
+
+You may contact me to discuss stuff.
 
 //Erfan
