@@ -1,22 +1,36 @@
 baseURL = "https://eyousefi.com/"
 languageCode = "en-us"
-title = "Erfan Yousefi"
-theme = "kiera"
-copyright = "Copyright &copy; 2018 - Erfan Yousefi"
+title = "eyousefi"
+theme = "archie"
+copyright = "© Erfan Yousefi"
+pygmentsstyle = "monokai"
 pygmentsCodeFences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="auto"
+	featherIconsCDN=true
+	subtitle = "All persons fictitious, including the writer"
 canonifyurls = true
 paginate = 3
 summaryLength = 30
 enableEmoji = true
-
-disqusShortname = "" #Disqus shortname
 googleAnalytics = "UA-60175069-1" #Google Analytics ID
-
 [author]
     name = "Erfan"       #Author name
     linkedin = "ErfanYousefi"   #LinkedIn username
     twitter = "2Erfan"    #Twitter username
 
-[params]
-    tagline = "Personal page"
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/ErfanY"
 
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/2Erfan"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/ErfanYousefi"
