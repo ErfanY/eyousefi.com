@@ -1,4 +1,4 @@
-baseURL = "http://www.eyousefi.com/"
+baseURL = "https://www.eyousefi.com/"
 languageCode = "en-us"
 title = "eyousefi"
 theme = "archie"
