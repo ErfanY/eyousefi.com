@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode="auto"
 	featherIconsCDN=true
-	subtitle = "All persons fictitious, including the writer"
+	subtitle = "All persons fictitious, including the author"
 canonifyurls = true
 paginate = 3
 summaryLength = 30
