@@ -1,7 +1,7 @@
 ---
 title: "On Blogging"
 date: 2020-05-03T01:18:54+02:00
-tags = [ "blog" ]
+tags: [ "blog" ]
 draft: true
 ---
 
