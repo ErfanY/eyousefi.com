@@ -6,7 +6,7 @@ weight = "20"
 meta = "false"
 +++
 
-My name is Erfan Yousefi, as you might already know. I'm an Engineering Manager at a company called Infor with
+My name is Erfan Yousefi, as you might already know. I'm Development Director at a company called Infor with
 background as Architect and Software Engineer prior to that. But this is not LinkedIn so clearly that was useless to
 say. 
 
