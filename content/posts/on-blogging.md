@@ -1,8 +1,9 @@
----
-title: "On Blogging"
-date: 2020-05-10T15:14:54+02:00
-tags: [ "blog" ]
----
++++
+title = "On Blogging"
+date = 2020-05-10T15:14:54+02:00
+tags = [ "blog" ]
+highlight = "true"
++++
 
 So it might as well be fit to begin with talking about blogging. Why do we blog, what's the point and why should someone
 bother?
