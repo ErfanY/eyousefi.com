@@ -43,7 +43,7 @@ transforming into a habit and routine. I personally like to have some routines. 
 of them. This can be a routine, where blogging, your hobby. 
 
 ## So what
-Well, why do I do it, or why shoud I do it. I personally do it to put my thoughts into some digital paper. To be able to
+Well, why do I do it, or why should I do it. I personally do it to put my thoughts into some digital paper. To be able to
 reflect back on stuff and hopefully learn a thing or two from it. As much as I would enjoy it of course if read by 
 others, it is less relevant in my case. Whether it is being read or not, it is my own reflection that I intend to use 
 this for. So here you go, a few reasons why blogging might be an interesting thing to do and why it can help you or 
